@@ -1,0 +1,1 @@
+[25-Jul-2018 13:42:53 Etc/GMT] PHP Fatal error:  Call to undefined method Reportsmdl::get_customer_report_data() in /home/interu4b/public_html/kavan/application/controllers/reports/Reportsctrl.php on line 97
